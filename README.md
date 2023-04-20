@@ -1,1 +1,1 @@
-# RoboFarmToPlate_WorkshopProposal_GHC23
+# FarmToPlateWithAI_WorkshopProposal_GHC23
